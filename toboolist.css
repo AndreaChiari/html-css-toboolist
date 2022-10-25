@@ -93,21 +93,26 @@ main{
 
 /*text white*/
 
-.lable-blu, .tasks, .symbol, h3{
+.lable-blu, .tasks, .symbol, h3, 
+.symbol_block_level, .tasks_inline,
+.titoletti,.new-task, li, .symbol_green,
+.symbol_red{
     background-color: white;
 }
 
 
 /*corpo del main*/
 
+
+
 .titoletti{
-    margin-left: 30px;
+    padding-left: 30px;
     height: 50-px;
     padding-top: 50px;
     font-size: 30px;
 }
 
-.symbol{
+.symbol_green{
     display: inline-block;
     margin-left: 35px;
     margin-top: 20px;
@@ -122,6 +127,21 @@ main{
     
     
 }
+
+.symbol_red{
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: 20px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid;
+    text-align: center;
+    color:rgb(255,57,57) ;
+    vertical-align: middle;
+
+}
+
 
 .tasks{
     text-align: center;
@@ -147,5 +167,8 @@ main{
     color:white;
     width: 69px;
     height: 32px;
+    padding: 5px;
     
 }
+
+
