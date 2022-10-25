@@ -153,6 +153,8 @@ main{
     
 }
 
+/*lable colors*/
+
 
 .lable-blu{
     background-color: rgb(69,171,234);
@@ -172,3 +174,110 @@ main{
 }
 
 
+.lable-purple{
+    background-color: rgb(156,114,228);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 5px;
+    padding-top: 8px;
+    
+}
+
+.lable-lightgreen{
+    background-color: rgb(100,192,169);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 5px;
+    padding-right: 73px;
+    
+}
+
+.lable-lightgreen{
+    background-color: rgb(100,192,169);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 7px;
+    padding-right: 73px;
+    
+}
+
+
+.lable-orange{
+    background-color: rgb(242,158,51);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 5px;
+    
+    
+}
+
+
+.lable-pink{
+    background-color: rgb(216,99,161);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 5px;
+    
+}
+
+.lable-green{
+    background-color: rgb(176,201,38);
+    vertical-align: middle;
+    margin-top: 24px;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: 1px solid;
+    text-align: center;
+    color:white;
+    width: 69px;
+    height: 32px;
+    padding: 5px;
+    
+}
